@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1000/1*Pu3_B6FHj5vAhSuQInhE0A.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Siddhi Malave</h1>
 
