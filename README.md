@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddhi Malave</h1>
 
-- 🌱 I’m currently learning Python,TypeScript.
+- 🌱 I’m currently learning Angular,Machine Learning.
 
 - 📫 How to reach me **siddhi.malave16@gmail.com**
 <h3 align="left">Connect with me:</h3>
